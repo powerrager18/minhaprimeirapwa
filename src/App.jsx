@@ -1,6 +1,5 @@
 import { BrowserRouter as Router, Routes, Route} from 'react-router-dom';
 import Home from './Home';
-import Rotas from './CalculoPorcentagem';
 import Sobre from './Sobre';
 import NotFound from './NotFound';
 import Menu from './Menu';
