@@ -25,7 +25,7 @@ const Menu = () => {
                 <NavLink className="dropdown-item" to="/calculo">Calculadora basica</NavLink>
             </li>            
             <li>
-                <NavLink className="dropdown-item" to="/calculo/IMC">Calculadora de IMC</NavLink>
+                <NavLink className="dropdown-item" to="/calculoIMC">Calculadora de IMC</NavLink>
             </li>
             <li><hr className="dropdown-divider"/></li>
             <li>

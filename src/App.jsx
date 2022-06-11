@@ -19,8 +19,7 @@ function App() {
         <Route exact path="/calculo/Porcentagem" element={<CalculoPorcentagem/>}/>
         <Route exact path="/sobre" element={<Sobre/>}/>
         <Route exact path="/calculo" element={<Calculo/>}/>
-        <Route exact path="/calculo/IMC" element={<CalculoIMC/>}/>
-        <Route exact path="/calculo/" element={<CalculoIMC/>}/>
+        <Route exact path="/calculoIMC" element={<CalculoIMC/>}/>
         <Route path="*" element={<NotFound/>}/>
       </Routes>
     </Router>
